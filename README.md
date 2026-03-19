@@ -1,4 +1,4 @@
-# MMMU
+# LVOmniBench
 Homepage of LVOmniBench, A Pioneering Long Audio-Video Understanding Evaluation Benchmark for Omnimodal LLMs. 
 
 # Website License
