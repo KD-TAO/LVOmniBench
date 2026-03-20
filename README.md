@@ -11,7 +11,7 @@
 ![LVOmniBench](https://img.shields.io/badge/Dataset-LVOmniBench-blue)
 ![Gemini](https://img.shields.io/badge/Model-Gemini-green) 
 
-<font size=7><div align='center' > [[Project Page](https://kd-tao.github.io/LVOmniBench/)] [[Paper]()] [[Dataset](https://huggingface.co/datasets/KD-TAO/LVOmniBench)]  </div></font>
+<font size=7><div align='center' > [[Project Page](https://kd-tao.github.io/LVOmniBench/)] [[Paper](https://arxiv.org/abs/2603.19217)] [[Dataset](https://huggingface.co/datasets/KD-TAO/LVOmniBench)]  </div></font>
 
 LVOmniBench is a new audio-visual understanding evaluation benchmark in long-form audio-video inputs. 🌟
 
