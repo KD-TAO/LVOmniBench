@@ -102,10 +102,10 @@ If you find our work helpful for your research, please consider citing our work.
 
 ```bibtex
 @article{tao2026lvomnibench,
-    title={LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs},
-    author={Keda Tao and Yuhua Zheng and Jia Xu and Wenjie Du and Kele Shao and Hesong Wang and Xueyi Chen and Xin Jin and Junhan Zhu and Bohan Yu and Weiqiang Wang and Jian Liu and Can Qin and Yulun Zhang and Ming-Hsuan Yang and Huan Wang},
-    journal={arXiv preprint arXiv:2603.19217},
-    year={2026}
+  title={LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs},
+  author={Tao, Keda and Zheng, Yuhua and Xu, Jia and Du, Wenjie and Shao, Kele and Wang, Hesong and Chen, Xueyi and Jin, Xin and Zhu, Junhan and Yu, Bohan and others},
+  journal={arXiv preprint arXiv:2603.19217},
+  year={2026}
 }
 ```
 
