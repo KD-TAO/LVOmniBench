@@ -55,6 +55,8 @@ comprehensive evaluation of OmniLLMs.
 
 ## 🔮 Evaluation
 
+We provide **[OmniEval](OmniEval/)**, a plug-and-play evaluation framework for benchmarking OmniLLMs on LVOmniBench. It supports multi-GPU distributed inference and makes it easy to adapt new models — just inherit a single base class. To evaluate your own model, follow the [Adapting Your Own Model](OmniEval/README.md#adapting-your-own-model) guide. See the [OmniEval README](OmniEval/README.md) for full documentation.
+
 📍 **Prompt**:
 
 The common prompt used in our evaluation follows this format:
