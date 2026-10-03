@@ -20,6 +20,7 @@ LVOmniBench is a new audio-visual understanding evaluation benchmark in long-for
 
 
 ## 🔥 News
+* **`2026.09.25`** 🌟 The [Qwen3.8-Omni-Flash paper](https://arxiv.org/abs/2609.25611) reports results on LVOmniBench for long audio-video understanding!
 * **`2026.03.19`** 🌟 We are very proud to launch LVOmniBench, the pioneering comprehensive evaluation benchmark of OmniLLMs in Long Audio-Video Understanding Evaluation!
 
 
